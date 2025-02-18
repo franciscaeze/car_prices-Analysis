@@ -23,6 +23,6 @@ This repository contains a detailed analysis of car prices in Nigeria using Pyth
 ## **Usage**
 - Clone the repository:
   ```sh
-  git clone https://github.com/your-username/car-prices-analysis.git
+  git clone https://github.com/franciscaeze/car-prices-analysis.git
   ```
 - Run the Python scripts to explore the dataset.
